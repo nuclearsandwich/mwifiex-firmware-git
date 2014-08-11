@@ -1,0 +1,4 @@
+mwifiex*.tar.xz
+mwifiex-firmware/
+src/
+pkg/
